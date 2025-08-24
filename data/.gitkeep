@@ -1,0 +1,2 @@
+# This file ensures the data directory is tracked in git
+# Store your calibration datasets here: ROS bag files (.bag), images, and pointcloud data (.pcd, .ply)

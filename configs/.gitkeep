@@ -1,0 +1,2 @@
+# This file ensures the configs directory is tracked in git
+# Configuration files for each sensor or calibration tool: YAML files for ROS nodes, camera intrinsics/extrinsics
